@@ -1,3 +1,5 @@
 test case1
+Test case title: Login form works
+Steps to reproduce: 1, 2, 3
 
 test case2
